@@ -1,0 +1,241 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[10pt, a4paper]{article}
+
+\usepackage{pagecolor}
+
+% LAYOUT
+%--------------------------------
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{xltxtra}
+\usepackage{geometry}
+
+\setmainfont{Helvetica}
+\geometry{a4paper, left=35mm, right=35mm, top=35mm, bottom=17mm}
+
+% Do not indent paragraphs
+\setlength\parindent{0in}
+
+% Enable multicolumns
+\usepackage{multicol}
+\setlength{\columnsep}{-3.5cm}
+
+% Uncomment to suppress page numbers
+% \pagenumbering{gobble}
+
+% MARGIN NOTES
+%--------------------------------
+\usepackage{marginnote}
+\newcommand{\note}[1]{\marginnote{\small #1}}
+\renewcommand*{\raggedleftmarginnote}{}
+\setlength{\marginparsep}{7pt}
+\reversemarginpar
+
+% HEADINGS
+%--------------------------------
+\usepackage{sectsty} 
+\usepackage[normalem]{ulem} 
+\sectionfont{\rmfamily\mdseries} 
+\subsectionfont{\rmfamily\mdseries\scshape\normalsize} 
+\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize} 
+
+% PDF SETUP
+%--------------------------------
+\usepackage{hyperref}
+\hypersetup
+{
+  pdfauthor={Samuel V. Hulse},
+  pdfsubject={Samuel V. Hulse's CV},
+  pdftitle={Samuel V. Hulse's CV},
+  colorlinks, breaklinks, xetex, bookmarks,
+  filecolor=black,
+  urlcolor=[rgb]{0.117,0.682,0.858},
+  linkcolor=[rgb]{0.117,0.682,0.858},
+  linkcolor=[rgb]{0.117,0.682,0.858},
+  citecolor=[rgb]{0.117,0.682,0.858}
+}
+
+% DOCUMENT
+%--------------------------------
+\begin{document}
+
+\definecolor{light-gray}{rgb}{0.935, 0.924, 0.908} 
+\pagecolor{light-gray}
+
+{\LARGE Samuel V. Hulse}\\[.4cm]
+{\large Postdoctral Associate\\
+Theoretical Evolutionary Biologist\\[0.5cm]}
+
+\begin{multicols}{2}
+  \textbf{Address:}\\
+  1350 Shepherd St NW\\
+  Washington, DC 20011\\[0.5cm]
+  \columnbreak
+
+  \textbf{Phone:} (443) 527-5710)\\
+  \textbf{Email:} \href{mailto:$email$}{shulse@umd.edu}\\
+  \textbf{GitHub:} svhulse
+\end{multicols}
+
+\section*{Professional Interests}
+For my doctoral work, I focused on expanding the domain of the sensory drive model beyond peripheral
+sensory processing, to explain the evolution of complex visual displays. In the Bruns Lab, I am working to
+develop theoretical models for how evolutionary feedbacks influence disease resistance in plant models.
+My understanding of the field has been greatly informed by my passion for mathematics, and I am
+captivated by how evolutionary theory can be made more rigorous through interdisciplinary approaches.\\
+
+\section*{Professional Experience}
+\note{2021 - Curr.} \textbf{Postdoctoral Associate}\\
+\emph{University of Maryland College Park}, Baltimore, MD\\
+\emph{Supervisor:} Dr. Emily Bruns\\
+
+\section*{Education}
+\note{2021} \textbf{Ph.D., Biological Sciences}\\
+\emph{University of Maryland Baltimore County}, Baltimore, MD\\
+\emph{Dissertation:} The Evolution of Visual Patterning in North American Freshwater Fishes\\
+\emph{Supervisor:} Dr. Tamra Mendelson\\[.2cm]
+
+\note{2021} \textbf{M.S., Applied Mathematics}\\
+\emph{University of Maryland Baltimore County}, Baltimore, MD\\[.2cm]
+
+\note{2012}\textbf{B.S., Environmental Science}\\
+\emph{Juniata College}, Huntingdon, PA\\
+
+
+
+\section*{Peer-Reviewed Publications}
+\note{2023}\textbf{Hulse, S.V.,} Antonovics, J., Hood, M.E., and Bruns, E.L.
+Host-pathogen coevolution promotes the evolution of general, broad-spectrum resistance and reduces foreign pathogen spillover risk.
+\emph{In Review}.\\[.2cm]
+
+\note{2023}\textbf{Hulse, S.V.,} Antonovics, J., Hood, M.E., and Bruns, E.L.
+Specific resistance prevents the evolution of general resistance and facilitates disease emergence.
+\emph{Journal of Evolutionary Biology} 36: 753-763.\\[.2cm]
+
+\note{2022}\textbf{Hulse, S.V.,} Renoult, J.P., and Mendelson, T.C.
+Using deep neural networks to model similarity between visual patterns: Application to fish sexual signals.
+\emph{Ecological Informatics} 67: 101486.\\[.2cm]
+
+\note{2020}\textbf{Hulse, S.V.,} Renoult, J.P., and Mendelson, T.C.
+Sexual signaling pattern correlates with habitat pattern in visually ornamented fishes.
+\emph{Nature Communications} 11: 2561.\\
+
+
+
+\section*{Conferences and Presentations}
+\subsection*{\emph{Invited Talks}}
+\note{2023} \textbf{Hulse, S.V.} 
+The evolution and maintenance of host genetic diversity for pathogen resistance.
+Mathematical Biology Seminar,
+University of Maryland College Park.\\[0.2cm]
+
+\note{2022} \textbf{Hulse, S.V.}
+Applications of Deep Learning to Fish Behavioral Patterns.
+Machine Learners Group Seminar,
+Scripps Institution of Oceanography.\\[0.2cm]
+
+\note{2019} \textbf{Hulse, S.V.}
+Understanding the signals animals send each other.
+High School Assembly Presentation,
+The Park School of Baltimore.\\
+
+\subsection*{\emph{Contributed Talks}}
+\note{2023} \textbf{Hulse, S.V.}
+The role of coevolution in mantaining host resistance structures.
+Evolution, Albuquerque, NM.\\[0.2cm]
+
+\note{2023} \textbf{Hulse, S.V.}
+Does host-pathogen coevolution increase the risk of foreign pathogen invasion?
+Ecology and Evolution of Infectious Diseases, State College, PA.\\[0.2cm]
+
+\note{2021} \textbf{Hulse, S.V.}
+Visual statistsics of habitat predict spatial aspect of visual signals.
+University of Maryland Behavior, Ecology, Evolution, and Systematics Department Retreat, Thurmont, MD.\\[0.2cm]
+
+\note{2019} Mendelson, T.C., \textbf{Hulse, S.V.,} Renoult, J.P.
+Complex nuptial patterns of fish species mimic the spatial statistics of their habitat. 
+Annual meeting of the Animal Behavior Society, Chicago, IL.\\[0.2cm]
+
+\note{2018} \textbf{Hulse, S.V.}
+The Efficient Coding Hypothesis and Signal Design.
+UMBC Biological Sciences Departmental Seminar, Baltimore, MD.\\[0.2cm]
+
+\note{2018} \textbf{Hulse, S.V.,} and Mendelson, T.C.
+The efficient coding hypothesis and signal design.
+Annual meeting of the Society for Integrative and Comparative Biology, San Francisco, CA.\\[0.2cm]
+
+\note{2017} \textbf{Hulse, S.V.,} and Mendelson, T.C.
+The efficient coding hypothesis and signal design.
+Spotlight Talk, Evolution, Portland, OR.\\
+
+\subsection*{\emph{Posters}}
+\note{2022} \textbf{Hulse, S.V.,} and Bruns. E.L.
+Disease Resistance at the Whole Organism Level, The Joint Evolution of General and Specific Resistance.
+Ecology and Evolution of Infectious Diseases, Atlanta GA.\\[0.2cm]
+
+\note{2020} \textbf{Hulse, S.V.,} Mendelson, T.C., and Renoult, J.P.
+The spatial statistics of sexual signals in fishes correspond to their habitat: extending sensory drive to signal design. 
+NSF workshop: Biology through Information Communication Coding Theory, Alexandria, VA.\\[0.2cm]
+
+\note{2018} \textbf{Hulse, S.V.,} Renoult, J.P., and Mendelson, T.C.
+The Efficient Coding Hypothesis and the Evolution of Signal Design.
+Evolution, Montpellier, France.\\[0.2cm]
+
+\note{2017} \textbf{Hulse, S.V.,} and Mendelson, T.C.
+The efficient coding hypothesis and signal design.
+Annual meeting of the Society for Integrative and
+Comparative Biology, New Orleans, LA.\\
+
+
+\section*{Grants, Awards, and Fellowships}
+\subsection*{Fellowships}
+\note{2019} Millhauser Fellowship, The Park School of Baltimore (\$250)\\[0.2cm]
+\note{2018} Chateaubriand Fellowship, The Embassy of France in the United States (\$4200)\\
+
+\subsection*{Travel Awards}
+\note{2020} NSF BIOtIC Workshop Student Support (Housing Support)\\[0.2cm]
+\note{2018} SICB Charlotte Magnum Student Support (Housing Support)\\[0.2cm]
+\note{2018} SICB Charlotte Magnum Student Support (Housing Support)\\[0.2cm]
+\note{2018} Wilson Ornithological Society Travel Award (\$285)\\
+
+\subsection*{Other Awards}
+\note{2018} AAAS/Science Program for Excellence in Science (Full AAAS Membership benefits)\\[0.2cm]
+
+
+\section*{Training}
+\note{2022} University of Maryland Mentoring Workshops for Postdoctoral Fellows, College Park, MD.\\[0.2cm]
+\note{2020} MIT Brains, Minds Machines Virtual Summer Course,
+Woods Hole, MA.\\
+
+
+
+\section*{Teaching Experience}
+\note{2015-2021} Teaching Assistant, Comparative Vertebrate Physiology Lab\\[0.2cm]
+\note{2016-2020} Teaching Assistant, Anatomy and Physiology II Lab\\[0.2cm]
+\note{2018} Guest Lecturer, Sexual Selection\\[0.2cm]
+\note{2017, 2018} Guest Lecturer, Animal Behavior\\
+
+
+
+\section*{Mentoring}
+\subsection*{Undergraduate Mentoring, University of Maryland College Park}
+\note{2023} Molly Gans, Amherst University\\[0.2cm]
+\note{2022} Daniel Fu, University of Maryland College Park\\
+
+\section*{Academic Service}
+\subsection*{Manuscript Peer Reviewed}
+\note{2023} Biology Letters (Joint review with Dr. Emily Bruns)\\[0.2cm]
+\note{2022} Evolutionary Ecology\\[0.2cm]
+\note{2020} Behavioral Ecology\\
+\subsection*{Misc. Service}
+\note{2023 - Curr.} Organiser: Mathmatical Biology Journal Club\\[0.2cm]
+\note{2023} SSE W. D. Hamilton Award Judge\\[0.2cm]
+\note{2023} Maryland Day 2023 Outreach Volunteer\\[0.2cm]
+\note{2016-2020} UMBC Department of Biological Science FUN Committee\\[0.2cm]
+\note{2016-2017} UMBC Graduate Student Association Senator
+
+\vspace{25pt}
+
+\end{document}
