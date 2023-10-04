@@ -1,18 +1,14 @@
-%!TEX TS-program = xelatex
-%!TEX encoding = UTF-8 Unicode
-
 \documentclass[10pt, a4paper]{article}
 
-\usepackage{pagecolor}
+\usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault} 
+\usepackage[T1]{fontenc}
 
-% LAYOUT
-%--------------------------------
-\usepackage{fontspec}
-\usepackage{polyglossia}
-\usepackage{xltxtra}
+% \usepackage{pagecolor}
+% \usepackage{polyglossia}
+% \usepackage{xltxtra}
 \usepackage{geometry}
 
-\setmainfont{Helvetica}
 \geometry{a4paper, left=35mm, right=35mm, top=35mm, bottom=17mm}
 
 % Do not indent paragraphs
@@ -21,9 +17,6 @@
 % Enable multicolumns
 \usepackage{multicol}
 \setlength{\columnsep}{-3.5cm}
-
-% Uncomment to suppress page numbers
-% \pagenumbering{gobble}
 
 % MARGIN NOTES
 %--------------------------------
@@ -37,9 +30,9 @@
 %--------------------------------
 \usepackage{sectsty} 
 \usepackage[normalem]{ulem} 
-\sectionfont{\rmfamily\mdseries} 
-\subsectionfont{\rmfamily\mdseries\scshape\normalsize} 
-\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize} 
+%\sectionfont{\rmfamily\mdseries} 
+%\subsectionfont{\rmfamily\mdseries\scshape\normalsize} 
+%\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize} 
 
 % PDF SETUP
 %--------------------------------
@@ -57,8 +50,6 @@
   citecolor=[rgb]{0.117,0.682,0.858}
 }
 
-% DOCUMENT
-%--------------------------------
 \begin{document}
 
 \definecolor{light-gray}{rgb}{0.935, 0.924, 0.908} 
@@ -105,10 +96,11 @@ captivated by how evolutionary theory can be made more rigorous through interdis
 
 
 
-\section*{Peer-Reviewed Publications}
+\section*{Publications}
+\subsection*{\emph{Peer-Reviewed Publications}}
 \note{2023}\textbf{Hulse, S.V.,} Antonovics, J., Hood, M.E., and Bruns, E.L.
 Host-pathogen coevolution promotes the evolution of general, broad-spectrum resistance and reduces foreign pathogen spillover risk.
-\emph{In Review}.\\[.2cm]
+\emph{Accepted, Evolution Letters}.\\[.2cm]
 
 \note{2023}\textbf{Hulse, S.V.,} Antonovics, J., Hood, M.E., and Bruns, E.L.
 Specific resistance prevents the evolution of general resistance and facilitates disease emergence.
@@ -122,6 +114,9 @@ Using deep neural networks to model similarity between visual patterns: Applicat
 Sexual signaling pattern correlates with habitat pattern in visually ornamented fishes.
 \emph{Nature Communications} 11: 2561.\\
 
+\subsection*{\emph{Dissertation}}
+\note{2021}\textbf{Hulse, S.V.}
+The Evolution of Visual Patterning in North American Freshwater Fishes. \\[.2cm]
 
 
 \section*{Conferences and Presentations}
@@ -142,6 +137,10 @@ High School Assembly Presentation,
 The Park School of Baltimore.\\
 
 \subsection*{\emph{Contributed Talks}}
+\note{2023} \textbf{Hulse, S.V.}
+A theoretical model for the shape of evolutionary tradeoffs.
+Southeastern Population Ecology and Evolutionary Genetics, Pembroke, VA.\\[0.2cm]
+
 \note{2023} \textbf{Hulse, S.V.}
 The role of coevolution in mantaining host resistance structures.
 Evolution, Albuquerque, NM.\\[0.2cm]
@@ -212,6 +211,7 @@ Woods Hole, MA.\\
 
 
 \section*{Teaching Experience}
+\note{2023} Developing Course: BSCI 338V: Introduction to Python for Life Sciences\\[0.2cm]
 \note{2015-2021} Teaching Assistant, Comparative Vertebrate Physiology Lab\\[0.2cm]
 \note{2016-2020} Teaching Assistant, Anatomy and Physiology II Lab\\[0.2cm]
 \note{2018} Guest Lecturer, Sexual Selection\\[0.2cm]
@@ -230,7 +230,7 @@ Woods Hole, MA.\\
 \note{2022} Evolutionary Ecology\\[0.2cm]
 \note{2020} Behavioral Ecology\\
 \subsection*{Misc. Service}
-\note{2023 - Curr.} Organiser: Mathmatical Biology Journal Club\\[0.2cm]
+\note{2023 - Curr.} Founder and Organiser: UMD Mathematical Biology Journal Club\\[0.2cm]
 \note{2023} SSE W. D. Hamilton Award Judge\\[0.2cm]
 \note{2023} Maryland Day 2023 Outreach Volunteer\\[0.2cm]
 \note{2016-2020} UMBC Department of Biological Science FUN Committee\\[0.2cm]
