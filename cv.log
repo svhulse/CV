@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.23)  23 JAN 2024 11:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.3.13)  14 MAR 2024 13:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -466,257 +466,252 @@ Package marginnote Info: Margin note 2.3 is on absolute page 2 on input line 122
 Package marginnote Info: right page because not two side mode on input line 122.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 122.
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--126
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
 
  []
 
-Package marginnote Info: Margin note 2.4 is on absolute page 2 on input line 127.
-Package marginnote Info: right page because not two side mode on input line 127.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 127.
+Package marginnote Info: Margin note 2.4 is on absolute page 2 on input line 126.
+Package marginnote Info: right page because not two side mode on input line 126.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 126.
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--131
-
- []
-
-Package marginnote Info: Margin note 2.5 is on absolute page 2 on input line 132.
-Package marginnote Info: right page because not two side mode on input line 132.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 132.
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--136
+Underfull \hbox (badness 10000) in paragraph at lines 126--130
 
  []
 
-Package marginnote Info: Margin note 2.6 is on absolute page 2 on input line 138.
-Package marginnote Info: right page because not two side mode on input line 138.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 138.
+Package marginnote Info: Margin note 2.5 is on absolute page 2 on input line 131.
+Package marginnote Info: right page because not two side mode on input line 131.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 131.
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--141
-
- []
-
-Package marginnote Info: Margin note 2.7 is on absolute page 2 on input line 142.
-Package marginnote Info: right page because not two side mode on input line 142.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 142.
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--145
+Underfull \hbox (badness 10000) in paragraph at lines 131--135
 
  []
 
-Package marginnote Info: Margin note 2.8 is on absolute page 2 on input line 146.
-Package marginnote Info: right page because not two side mode on input line 146.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 146.
+Package marginnote Info: Margin note 2.6 is on absolute page 2 on input line 137.
+Package marginnote Info: right page because not two side mode on input line 137.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 137.
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--149
-
- []
-
-Package marginnote Info: Margin note 2.9 is on absolute page 2 on input line 150.
-Package marginnote Info: right page because not two side mode on input line 150.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 150.
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--153
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
 
  []
 
-Package marginnote Info: Margin note 2.10 is on absolute page 2 on input line 154.
-Package marginnote Info: right page because not two side mode on input line 154.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 154.
+Package marginnote Info: Margin note 2.7 is on absolute page 2 on input line 141.
+Package marginnote Info: right page because not two side mode on input line 141.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 141.
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--157
-
- []
-
-Package marginnote Info: Margin note 2.11 is on absolute page 2 on input line 158.
-Package marginnote Info: right page because not two side mode on input line 158.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 158.
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--161
+Underfull \hbox (badness 10000) in paragraph at lines 141--144
 
  []
 
-Package marginnote Info: Margin note 2.12 is on absolute page 2 on input line 162.
+Package marginnote Info: Margin note 2.8 is on absolute page 2 on input line 145.
+Package marginnote Info: right page because not two side mode on input line 145.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 145.
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--148
+
+ []
+
+Package marginnote Info: Margin note 2.9 is on absolute page 2 on input line 149.
+Package marginnote Info: right page because not two side mode on input line 149.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 149.
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
+
+ []
+
+Package marginnote Info: Margin note 2.10 is on absolute page 2 on input line 153.
+Package marginnote Info: right page because not two side mode on input line 153.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 153.
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--156
+
+ []
+
+Package marginnote Info: Margin note 2.11 is on absolute page 2 on input line 157.
+Package marginnote Info: right page because not two side mode on input line 157.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 157.
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--160
+
+ []
+
+Package marginnote Info: Margin note 2.12 is on absolute page 3 on input line 162.
 Package marginnote Info: right page because not two side mode on input line 162.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 162.
-
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 162--165
 
  []
 
-Package marginnote Info: Margin note 2.13 is on absolute page 3 on input line 166.
+Package marginnote Info: Margin note 3.1 is on absolute page 3 on input line 166.
 Package marginnote Info: right page because not two side mode on input line 166.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 166.
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 166--169
 
  []
 
-Package marginnote Info: Margin note 3.1 is on absolute page 3 on input line 171.
-Package marginnote Info: right page because not two side mode on input line 171.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 171.
+Package marginnote Info: Margin note 3.2 is on absolute page 3 on input line 170.
+Package marginnote Info: right page because not two side mode on input line 170.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 170.
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--174
-
- []
-
-Package marginnote Info: Margin note 3.2 is on absolute page 3 on input line 175.
-Package marginnote Info: right page because not two side mode on input line 175.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 175.
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--178
+Underfull \hbox (badness 10000) in paragraph at lines 170--173
 
  []
 
-Package marginnote Info: Margin note 3.3 is on absolute page 3 on input line 179.
-Package marginnote Info: right page because not two side mode on input line 179.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 179.
+Package marginnote Info: Margin note 3.3 is on absolute page 3 on input line 174.
+Package marginnote Info: right page because not two side mode on input line 174.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 174.
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--182
-
- []
-
-Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 183.
-Package marginnote Info: right page because not two side mode on input line 183.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 183.
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--187
+Underfull \hbox (badness 10000) in paragraph at lines 174--178
 
  []
 
-Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 191.
+Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 180.
+Package marginnote Info: right page because not two side mode on input line 180.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 180.
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--184
+
+ []
+
+Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 187.
+Package marginnote Info: right page because not two side mode on input line 187.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 187.
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+Package marginnote Info: Margin note 3.6 is on absolute page 3 on input line 190.
+Package marginnote Info: right page because not two side mode on input line 190.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 190.
+Package marginnote Info: Margin note 3.7 is on absolute page 3 on input line 191.
 Package marginnote Info: right page because not two side mode on input line 191.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 191.
-Package marginnote Info: Margin note 3.6 is on absolute page 3 on input line 192.
+Package marginnote Info: Margin note 3.8 is on absolute page 3 on input line 192.
 Package marginnote Info: right page because not two side mode on input line 192.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 192.
+Package marginnote Info: Margin note 3.9 is on absolute page 3 on input line 193.
+Package marginnote Info: right page because not two side mode on input line 193.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 193.
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
+Underfull \hbox (badness 10000) in paragraph at lines 190--194
 
  []
 
-Package marginnote Info: Margin note 3.7 is on absolute page 3 on input line 195.
-Package marginnote Info: right page because not two side mode on input line 195.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 195.
-Package marginnote Info: Margin note 3.8 is on absolute page 3 on input line 196.
+Package marginnote Info: Margin note 3.10 is on absolute page 3 on input line 196.
 Package marginnote Info: right page because not two side mode on input line 196.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 196.
-Package marginnote Info: Margin note 3.9 is on absolute page 3 on input line 197.
-Package marginnote Info: right page because not two side mode on input line 197.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 197.
-Package marginnote Info: Margin note 3.10 is on absolute page 3 on input line 198.
-Package marginnote Info: right page because not two side mode on input line 198.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 198.
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--199
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
 
-Package marginnote Info: Margin note 3.11 is on absolute page 3 on input line 201.
+Package marginnote Info: Margin note 3.11 is on absolute page 3 on input line 200.
+Package marginnote Info: right page because not two side mode on input line 200.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 200.
+Package marginnote Info: Margin note 3.12 is on absolute page 3 on input line 201.
 Package marginnote Info: right page because not two side mode on input line 201.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 201.
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
+Underfull \hbox (badness 10000) in paragraph at lines 200--203
 
  []
 
-Package marginnote Info: Margin note 3.12 is on absolute page 3 on input line 205.
-Package marginnote Info: right page because not two side mode on input line 205.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 205.
-Package marginnote Info: Margin note 3.13 is on absolute page 3 on input line 206.
-Package marginnote Info: right page because not two side mode on input line 206.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 206.
-
-Underfull \hbox (badness 10000) in paragraph at lines 205--208
+Package marginnote Info: Margin note 3.13 is on absolute page 4 on input line 208.
+Package marginnote Info: right page because not two side mode on input line 208.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 208.
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
  []
 
-Package marginnote Info: Margin note 3.14 is on absolute page 4 on input line 213.
+Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 212.
+Package marginnote Info: right page because not two side mode on input line 212.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 212.
+Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 213.
 Package marginnote Info: right page because not two side mode on input line 213.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 213.
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 213--215
+Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 214.
+Package marginnote Info: right page because not two side mode on input line 214.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 214.
+Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 215.
+Package marginnote Info: right page because not two side mode on input line 215.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 215.
+Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 216.
+Package marginnote Info: right page because not two side mode on input line 216.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 216.
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--217
 
  []
 
-Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 217.
-Package marginnote Info: right page because not two side mode on input line 217.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 217.
-Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 218.
-Package marginnote Info: right page because not two side mode on input line 218.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 218.
-Package marginnote Info: Margin note 4.3 is on absolute page 4 on input line 219.
-Package marginnote Info: right page because not two side mode on input line 219.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 219.
-Package marginnote Info: Margin note 4.4 is on absolute page 4 on input line 220.
-Package marginnote Info: right page because not two side mode on input line 220.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 220.
-Package marginnote Info: Margin note 4.5 is on absolute page 4 on input line 221.
-Package marginnote Info: right page because not two side mode on input line 221.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 221.
+Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 222.
+Package marginnote Info: right page because not two side mode on input line 222.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 222.
+Package marginnote Info: Margin note 4.7 is on absolute page 4 on input line 223.
+Package marginnote Info: right page because not two side mode on input line 223.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 223.
+Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 224.
+Package marginnote Info: right page because not two side mode on input line 224.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 224.
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--222
+Underfull \hbox (badness 10000) in paragraph at lines 222--225
 
  []
 
-Package marginnote Info: Margin note 4.6 is on absolute page 4 on input line 227.
-Package marginnote Info: right page because not two side mode on input line 227.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 227.
-Package marginnote Info: Margin note 4.7 is on absolute page 4 on input line 228.
+Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 228.
 Package marginnote Info: right page because not two side mode on input line 228.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 228.
+Package marginnote Info: Margin note 4.10 is on absolute page 4 on input line 229.
+Package marginnote Info: right page because not two side mode on input line 229.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 229.
+Package marginnote Info: Margin note 4.11 is on absolute page 4 on input line 230.
+Package marginnote Info: right page because not two side mode on input line 230.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 230.
+Package marginnote Info: Margin note 4.12 is on absolute page 4 on input line 231.
+Package marginnote Info: right page because not two side mode on input line 231.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 231.
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--229
+Underfull \hbox (badness 10000) in paragraph at lines 228--232
 
  []
 
-Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 232.
-Package marginnote Info: right page because not two side mode on input line 232.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 232.
-Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 233.
+Package marginnote Info: Margin note 4.13 is on absolute page 4 on input line 233.
 Package marginnote Info: right page because not two side mode on input line 233.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 233.
-Package marginnote Info: Margin note 4.10 is on absolute page 4 on input line 234.
+Package marginnote Info: Margin note 4.14 is on absolute page 4 on input line 234.
 Package marginnote Info: right page because not two side mode on input line 234.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 234.
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--235
-
- []
-
-Package marginnote Info: Margin note 4.11 is on absolute page 4 on input line 236.
+Package marginnote Info: Margin note 4.15 is on absolute page 4 on input line 235.
+Package marginnote Info: right page because not two side mode on input line 235.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 235.
+Package marginnote Info: Margin note 4.16 is on absolute page 4 on input line 236.
 Package marginnote Info: right page because not two side mode on input line 236.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 236.
-Package marginnote Info: Margin note 4.12 is on absolute page 4 on input line 237.
+Package marginnote Info: Margin note 4.17 is on absolute page 4 on input line 237.
 Package marginnote Info: right page because not two side mode on input line 237.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 237.
-Package marginnote Info: Margin note 4.13 is on absolute page 4 on input line 238.
+Package marginnote Info: Margin note 4.18 is on absolute page 4 on input line 238.
 Package marginnote Info: right page because not two side mode on input line 238.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 238.
-Package marginnote Info: Margin note 4.14 is on absolute page 4 on input line 239.
-Package marginnote Info: right page because not two side mode on input line 239.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 239.
-Package marginnote Info: Margin note 4.15 is on absolute page 4 on input line 240.
-Package marginnote Info: right page because not two side mode on input line 240.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 240.
-Package marginnote Info: Margin note 4.16 is on absolute page 4 on input line 241.
-Package marginnote Info: right page because not two side mode on input line 241.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 241.
 [4] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9094 strings out of 477985
- 141711 string characters out of 5840058
- 1863388 words of memory out of 5000000
+ 9095 strings out of 477985
+ 141722 string characters out of 5840058
+ 1864388 words of memory out of 5000000
  29170 multiletter control sequences out of 15000+600000
  539751 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,9n,76p,262b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on cv.pdf (4 pages, 46852 bytes).
+Output written on cv.pdf (4 pages, 46801 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 28 named destinations out of 1000 (max. 500000)
+ 76 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 29 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
