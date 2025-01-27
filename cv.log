@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.18)  19 NOV 2024 16:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.18)  27 JAN 2025 14:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -707,6 +707,12 @@ Package marginnote Info: xpos seems to be 99.58464pt on input line 241.
 Package marginnote Info: Margin note 4.14 is on absolute page 4 on input line 242.
 Package marginnote Info: right page because not two side mode on input line 242.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 242.
+Package marginnote Info: Margin note 4.15 is on absolute page 4 on input line 243.
+Package marginnote Info: right page because not two side mode on input line 243.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 243.
+Package marginnote Info: Margin note 4.16 is on absolute page 4 on input line 244.
+Package marginnote Info: right page because not two side mode on input line 244.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 244.
 [4] (./cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -716,15 +722,15 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9287 strings out of 476076
- 141115 string characters out of 5793774
+ 9289 strings out of 476076
+ 141139 string characters out of 5793774
  1942187 words of memory out of 5000000
- 31274 multiletter control sequences out of 15000+600000
+ 31276 multiletter control sequences out of 15000+600000
  585533 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,9n,79p,262b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on cv.pdf (4 pages, 47612 bytes).
+Output written on cv.pdf (4 pages, 47671 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
