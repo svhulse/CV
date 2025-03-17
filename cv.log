@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.18)  27 JAN 2025 14:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.18)  17 MAR 2025 12:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -684,14 +684,14 @@ Package marginnote Info: xpos seems to be 99.58464pt on input line 234.
 Package marginnote Info: Margin note 4.8 is on absolute page 4 on input line 235.
 Package marginnote Info: right page because not two side mode on input line 235.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 235.
+Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 236.
+Package marginnote Info: right page because not two side mode on input line 236.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 236.
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--236
+Underfull \hbox (badness 10000) in paragraph at lines 230--237
 
  []
 
-Package marginnote Info: Margin note 4.9 is on absolute page 4 on input line 237.
-Package marginnote Info: right page because not two side mode on input line 237.
-Package marginnote Info: xpos seems to be 99.58464pt on input line 237.
 Package marginnote Info: Margin note 4.10 is on absolute page 4 on input line 238.
 Package marginnote Info: right page because not two side mode on input line 238.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 238.
@@ -713,6 +713,20 @@ Package marginnote Info: xpos seems to be 99.58464pt on input line 243.
 Package marginnote Info: Margin note 4.16 is on absolute page 4 on input line 244.
 Package marginnote Info: right page because not two side mode on input line 244.
 Package marginnote Info: xpos seems to be 99.58464pt on input line 244.
+Package marginnote Info: Margin note 4.17 is on absolute page 4 on input line 245.
+Package marginnote Info: right page because not two side mode on input line 245.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 245.
+Package marginnote Info: Margin note 4.18 is on absolute page 4 on input line 248.
+Package marginnote Info: right page because not two side mode on input line 248.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 248.
+Package marginnote Info: Margin note 4.19 is on absolute page 4 on input line 249.
+Package marginnote Info: right page because not two side mode on input line 249.
+Package marginnote Info: xpos seems to be 99.58464pt on input line 249.
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--250
+
+ []
+
 [4] (./cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -722,18 +736,18 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9289 strings out of 476076
- 141139 string characters out of 5793774
+ 9293 strings out of 476076
+ 141186 string characters out of 5793774
  1942187 words of memory out of 5000000
- 31276 multiletter control sequences out of 15000+600000
+ 31279 multiletter control sequences out of 15000+600000
  585533 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,9n,79p,262b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on cv.pdf (4 pages, 47671 bytes).
+Output written on cv.pdf (4 pages, 47855 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 28 named destinations out of 1000 (max. 500000)
+ 76 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 29 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

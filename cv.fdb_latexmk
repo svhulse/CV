@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1738006355.11695 "/home/sam/Documents/CV/cv.tex" "cv.pdf" "cv" 1738006355.49233 0
-  "/home/sam/Documents/CV/cv.tex" 1738006354.55844 10641 12dbad1fdc461c7c61cfb636671424e2 ""
+["pdflatex"] 1742230269.8349 "/home/sam/Documents/CV/cv.tex" "cv.pdf" "cv" 1742230270.21107 0
+  "/home/sam/Documents/CV/cv.tex" 1742230269.63813 10807 4eb52f485ebb19de4e838bedd52c1256 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1727349926 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1727349926 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1727349926 4484 b828043cbd581d289d955903c1339981 ""
@@ -69,9 +69,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1727349926 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1729269404.37482 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1729269352 7113013 88b839b9f0c8386f48ce3be3ad3ba32e ""
-  "cv.aux" 1738006355.45511 2478 985e31579160de0c1f13cd7f5857d81f "pdflatex"
-  "cv.out" 1738006355.38177 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv.tex" 1738006354.55844 10641 12dbad1fdc461c7c61cfb636671424e2 ""
+  "cv.aux" 1742230270.17146 2604 fb298410c496195300d003a8d5ab6638 "pdflatex"
+  "cv.out" 1742230270.09812 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv.tex" 1742230269.63813 10807 4eb52f485ebb19de4e838bedd52c1256 ""
   (generated)
   "cv.aux"
   "cv.log"
